@@ -1,0 +1,6 @@
+customhost = "employee.cdc5m351r7vf.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "redhat123"
+customdb = "employee"
+custombucket = "addemply"
+customregion = "us-east-1"
